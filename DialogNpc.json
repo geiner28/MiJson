@@ -2,10 +2,12 @@
   "c2array": true,
   "size": [5, 1, 2],
   "data": [
-    [["Hola viajero, bienvenido a nuestra aldea.", "Anciano"]],
-    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Anciano"]],
-    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardián"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardián"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Anciano"]]
+
+    [["Ah… así que al fin has llegado. Pequeño insecto, ¿realmente crees que puedes desafiarme?", "Jefe Oscuro"]],
+    [["Has superado obstáculos, derrotado a mis siervos… pero aquí termina tu camino.", "Jefe Oscuro"]],
+    [["La gema sagrada me pertenece. Su poder fluye en mis venas, y con él, gobernaré sobre esta tierra en sombras eternas.", "Jefe Oscuro"]],
+    [["¿Vienes armado con una simple espada y un corazón lleno de esperanza? ¡Patético! No eres más que otro necio que caerá ante mi poder.", "Jefe Oscuro"]],
+    [["Vamos, demuéstrame de qué estás hecho. ¡Lucha, héroe, y graba tu fracaso en la historia!", "Jefe Oscuro"]]
+
   ]
 }
