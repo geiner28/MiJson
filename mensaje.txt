@@ -1,5 +1,1 @@
-hola 	 1
-esto 	 1
-es 	 1
-un 	 1
-mensaje 	 1
+hola esto es un mensaje
